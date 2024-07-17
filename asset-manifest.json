@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hemakhati007.github.io/wordmanager/static/css/main.f855e6bc.css",
-    "main.js": "/hemakhati007.github.io/wordmanager/static/js/main.024ac34f.js",
-    "static/js/453.1e600ebb.chunk.js": "/hemakhati007.github.io/wordmanager/static/js/453.1e600ebb.chunk.js",
-    "index.html": "/hemakhati007.github.io/wordmanager/index.html",
-    "main.f855e6bc.css.map": "/hemakhati007.github.io/wordmanager/static/css/main.f855e6bc.css.map",
-    "main.024ac34f.js.map": "/hemakhati007.github.io/wordmanager/static/js/main.024ac34f.js.map",
-    "453.1e600ebb.chunk.js.map": "/hemakhati007.github.io/wordmanager/static/js/453.1e600ebb.chunk.js.map"
+    "main.css": "/wordmanager/static/css/main.f855e6bc.css",
+    "main.js": "/wordmanager/static/js/main.e5ef71d9.js",
+    "static/js/453.1e600ebb.chunk.js": "/wordmanager/static/js/453.1e600ebb.chunk.js",
+    "index.html": "/wordmanager/index.html",
+    "main.f855e6bc.css.map": "/wordmanager/static/css/main.f855e6bc.css.map",
+    "main.e5ef71d9.js.map": "/wordmanager/static/js/main.e5ef71d9.js.map",
+    "453.1e600ebb.chunk.js.map": "/wordmanager/static/js/453.1e600ebb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.024ac34f.js"
+    "static/js/main.e5ef71d9.js"
   ]
 }
